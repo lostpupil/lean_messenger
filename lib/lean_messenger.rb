@@ -1,5 +1,5 @@
 require "lean_messenger/version"
-
+require 'awesome_print'
 module LeanMessenger
   # Your code goes here...
   class Messenger
