@@ -4,7 +4,7 @@ module LeanMessenger
   # Your code goes here...
   class Messenger
     def self.hi
-      puts "Hello world!"
+      ap "Hello world!"
     end
   end
 end
